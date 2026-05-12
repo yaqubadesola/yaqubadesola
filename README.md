@@ -90,16 +90,6 @@ Right now I'm deep in **Agentic AI** — crafting multi-agent systems, RAG pipel
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Yaqub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaqubadesola&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaqubadesola&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
-</div>
-
----
 
 ## Let's Connect
 
