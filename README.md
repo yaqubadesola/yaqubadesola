@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi there, I'm Yaqub 👋
+# Yaqub Adesola
 
-### AI Engineer · Full-Stack Developer · DevOps Practitioner
+### AI Product Engineer · Full-Stack Architect · Agentic Systems Builder
 
-_10+ years building production-grade systems in fintech & banking_
+_Designing production-grade AI systems, developer tooling, and scalable cloud-native applications._
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yaqub.online-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://yaqub.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yaqubadesola-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaqubadesola/)
@@ -14,48 +14,62 @@ _10+ years building production-grade systems in fintech & banking_
 
 ---
 
-## About Me
+# About Me
 
-I'm a Senior Engineer with over a decade of experience designing and delivering high-stakes systems in **fintech and banking**. My work sits at the intersection of **AI engineering**, **full-stack development**, and **cloud-native DevOps** — building things that are reliable, scalable, and production-ready.
+I'm an engineer with 10+ years of experience building production systems across fintech, banking, AI, and cloud-native infrastructure.
 
-Right now I'm deep in **Agentic AI** — crafting multi-agent systems, RAG pipelines, LLM-powered applications, and AI digital twins. I care about shipping systems that actually work in the real world, not just demos.
+My work focuses on the intersection of:
 
-- 🤖 Building **LLM agents**, **RAG systems**, and **AI-native applications**
-- 🏦 10+ years in **fintech/banking** — microservices, payments, core banking infrastructure
-- ☁️ Cloud-first: **AWS Lambda**, **Terraform**, **serverless architectures**
-- 🧠 Currently: training my own **AI Digital Twin** at [yaqub.online](https://yaqub.online)
-- 🎯 Hireable & open to **AI engineering**, **platform engineering**, and **senior full-stack** roles
+- **AI Engineering**
+- **Agentic Workflows**
+- **LLM-powered Applications**
+- **Full-Stack Product Development**
+- **Cloud & Platform Engineering**
+
+I enjoy building systems that move beyond prototypes into reliable, scalable, production-ready software.
+
+Previously, I contributed to enterprise engineering initiatives including workflow migration systems, internal tooling operations, and modern frontend application development. Today, my focus is on designing intelligent AI-native systems capable of autonomous reasoning, orchestration, retrieval, and tool usage.
 
 ---
 
-## Tech Stack
+# Current Focus
 
-**AI / ML**
+- 🤖 Agentic AI systems & multi-agent orchestration
+- 🧠 RAG pipelines & production LLM architectures
+- 🔌 MCP (Model Context Protocol) integrations
+- ⚡ AI-native developer tooling
+- 🌐 AI-powered frontend experiences
+- ☁️ Serverless infrastructure & platform engineering
+
+---
+
+# Tech Stack
+
+## AI / LLM Engineering
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 ![Claude](https://img.shields.io/badge/Claude-Anthropic-D97757?style=flat-square&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6B46C1?style=flat-square&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**Backend & APIs**
+## Backend & APIs
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-**Frontend**
+## Frontend Engineering
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Cloud & DevOps**
+## Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
@@ -64,43 +78,107 @@ Right now I'm deep in **Agentic AI** — crafting multi-agent systems, RAG pipel
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-| Project                                                                                       | Description                                                                       | Stack                                               |
-| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------- |
-| [🧠 my_digital_twin](https://github.com/yaqubadesola/my_digital_twin)                         | AI-powered digital twin — a conversational agent that thinks and responds like me | Python · FastAPI · Next.js · AWS Lambda · Terraform |
-| [🔧 fixahub](https://github.com/yaqubadesola/fixahub)                                         | Multi-agent LangGraph system that automatically finds, verifies, fixes bugs in JS/TS repos and opens a PR — all without human intervention | Python · FastAPI · LangGraph · Claude Opus 4 · GPT-5 · Next.js · Clerk · SSE |
-| [🤖 ai_customer_support_chatbot](https://github.com/yaqubadesola/ai_customer_support_chatbot) | Production-grade AI customer support chatbot with MCP tool integration (Meridian) | Python · LLMs · MCP · Gradio                        |
-| [🕸️ web_search_agent](https://github.com/yaqubadesola/web_search_agent)                       | Reflective-pattern web search agent using LLMs                                    | Python · Agentic AI                                 |
-| [🚨 agent_incidence_response](https://github.com/yaqubadesola/agent_incidence_response)       | Autonomous incident response agent                                                | Python · Multi-Agent                                |
-| [🎮 llm_agents_alliance_game](https://github.com/yaqubadesola/llm_agents_alliance_game)       | Multi-agent game powered by LLMs                                                  | Python                                              |
-| [🏥 saas-medical-note](https://github.com/yaqubadesola/saas-medical-note)                     | AI-assisted medical note SaaS platform                                            | TypeScript · Next.js                                |
-| [🏦 Switch-MFB-microservices](https://github.com/yaqubadesola/Switch-MFB-microservices)       | Core banking microservices for a fintech MFB                                      | Java · Spring Boot · Docker                         |
-| [🌾 crisp_farm_apps](https://github.com/yaqubadesola/crisp_farm_apps)                         | AgriTech full-stack application                                                   | TypeScript · Next.js                                |
+## 🔧 FixaHub
 
----
+### Autonomous Multi-Agent Code Repair System
 
-## What I'm Currently Exploring
+An AI-powered autonomous engineering workflow that identifies, analyzes, fixes, verifies, and opens pull requests for JavaScript and TypeScript repositories without human intervention.
 
-- 🔭 **Agentic AI systems** — multi-agent orchestration, tool use, and autonomous workflows
-- 🔌 **MCP (Model Context Protocol)** — building and integrating MCP servers into AI-native applications
-- 📚 **Production AI design** — prompt engineering, RAG at scale, LLM evaluation
-- 🛠️ **Multimodal AI** — synthetic dataset generation across modalities
-- ⚙️ **Platform engineering** — serverless-first, infra-as-code with Terraform + AWS
+**Tech Stack:**  
+Python · FastAPI · LangGraph · Claude Opus · GPT-5 · Next.js · Clerk · SSE
+
+🔗 https://github.com/yaqubadesola/fixahub
 
 ---
 
+## 🧠 My Digital Twin
 
-## Let's Connect
+### AI-Powered Conversational Digital Twin
 
-I'm always open to discussing **AI engineering challenges**, **fintech architecture**, or interesting engineering problems. Reach out:
+A personalized AI digital twin capable of contextual reasoning and human-like interaction using modern LLM orchestration techniques.
 
-- 🌐 **Portfolio & AI Twin**: [yaqub.online](https://yaqub.online)
-- 💼 **LinkedIn**: [linkedin.com/in/yaqubadesola](https://www.linkedin.com/in/yaqubadesola/)
-- 🐙 **GitHub**: [github.com/yaqubadesola](https://github.com/yaqubadesola)
+**Tech Stack:**  
+Python · FastAPI · Next.js · AWS Lambda · Terraform
+
+🔗 https://github.com/yaqubadesola/my_digital_twin
+
+---
+
+## 🤖 AI Customer Support Chatbot
+
+### Production-Grade AI Support Assistant
+
+A customer support AI assistant integrated with MCP tooling for intelligent contextual interactions and workflow automation.
+
+**Tech Stack:**  
+Python · MCP · LLMs · Gradio
+
+🔗 https://github.com/yaqubadesola/ai_customer_support_chatbot
+
+---
+
+## 🚨 Agent Incident Response
+
+### Autonomous Incident Response Workflow
+
+An AI-driven multi-agent system designed for automated incident analysis, response coordination, and operational recovery workflows.
+
+**Tech Stack:**  
+Python · Multi-Agent Systems
+
+🔗 https://github.com/yaqubadesola/agent_incidence_response
+
+---
+
+## 🌾 Crisp Farm Apps
+
+### AgriTech SaaS Platform
+
+A full-stack agricultural platform focused on operational management and digital experiences for agribusiness workflows.
+
+**Tech Stack:**  
+JAVA · Springboot · Next.js · TypeScript
+
+🔗 https://github.com/yaqubadesola/crisp_farm_apps
+
+---
+
+# Engineering Interests
+
+- Agentic AI & autonomous systems
+- AI-native infrastructure
+- Multi-agent orchestration
+- Developer productivity tooling
+- Retrieval-Augmented Generation (RAG)
+- AI evaluation systems
+- Workflow automation
+- Cloud-native architecture
+- Platform engineering
+
+---
+
+# Open To
+
+- AI Product Engineering
+- Forward-Deployed Engineering
+- AI Systems Engineering
+- Full-Stack AI Development
+- Platform Engineering
+- Technical Consulting
+- Developer Tooling
+
+---
+
+# Let's Connect
+
+- 🌐 Portfolio: https://yaqub.online
+- 💼 LinkedIn: https://linkedin.com/in/yaqubadesola
+- 🐙 GitHub: https://github.com/yaqubadesola
 
 ---
 
 <div align="center">
-  <sub>Building intelligent systems, one commit at a time.</sub>
+  <sub>Building intelligent systems that solve real-world problems.</sub>
 </div>
