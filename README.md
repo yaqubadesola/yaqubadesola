@@ -78,8 +78,8 @@ Senior Software Engineer with **10+ years** delivering scalable enterprise appli
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yaqubadesola&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaqubadesola&layout=compact&hide_border=true&theme=default" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yaqubadesola&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaqubadesola&layout=compact&hide_border=true&theme=default&hide=jupyter%20notebook,php,scss" />
 
 </div>
 
